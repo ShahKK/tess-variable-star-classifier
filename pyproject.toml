@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tess-variable-star-classifier"
+version = "0.1.0"
+description = "A small ML project for classifying stellar variability from light curves."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "joblib>=1.4",
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+    "streamlit>=1.42",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

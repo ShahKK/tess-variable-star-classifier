@@ -1,0 +1,21 @@
+relative_path,label,sample_name,object_id,sector,source,is_real_data,notes
+delta_scuti/delta_scuti_001.csv,delta_scuti,delta_scuti_001,,,manual,False,
+delta_scuti/delta_scuti_002.csv,delta_scuti,delta_scuti_002,,,manual,False,
+delta_scuti/delta_scuti_003.csv,delta_scuti,delta_scuti_003,,,manual,False,
+delta_scuti/delta_scuti_004.csv,delta_scuti,delta_scuti_004,,,manual,False,
+delta_scuti/wasp_33_sector_18.csv,delta_scuti,wasp_33_sector_18,129979528.0,18.0,MAST TESS official sample,True,Real TESS light curves for a delta Scuti variable.
+delta_scuti/wasp_33_sector_58.csv,delta_scuti,wasp_33_sector_58,129979528.0,58.0,MAST TESS official sample,True,Real TESS light curves for a delta Scuti variable.
+delta_scuti/wasp_33_sector_85.csv,delta_scuti,wasp_33_sector_85,129979528.0,85.0,MAST TESS official sample,True,Real TESS light curves for a delta Scuti variable.
+eclipsing_binary/algol_sector_18.csv,eclipsing_binary,algol_sector_18,346783960.0,18.0,MAST TESS official sample,True,"Real TESS light curves for Algol, a well-known eclipsing binary."
+eclipsing_binary/algol_sector_58.csv,eclipsing_binary,algol_sector_58,346783960.0,58.0,MAST TESS official sample,True,"Real TESS light curves for Algol, a well-known eclipsing binary."
+eclipsing_binary/algol_sector_85.csv,eclipsing_binary,algol_sector_85,346783960.0,85.0,MAST TESS official sample,True,"Real TESS light curves for Algol, a well-known eclipsing binary."
+eclipsing_binary/eclipsing_binary_001.csv,eclipsing_binary,eclipsing_binary_001,,,manual,False,
+eclipsing_binary/eclipsing_binary_002.csv,eclipsing_binary,eclipsing_binary_002,,,manual,False,
+eclipsing_binary/eclipsing_binary_003.csv,eclipsing_binary,eclipsing_binary_003,,,manual,False,
+eclipsing_binary/eclipsing_binary_004.csv,eclipsing_binary,eclipsing_binary_004,,,manual,False,
+quiet_star/hd_209458_sector_56.csv,quiet_star,hd_209458_sector_56,420814525.0,56.0,MAST TESS official sample,True,Relatively quiet comparison target with shallow transit signatures.
+quiet_star/hd_209458_sector_82.csv,quiet_star,hd_209458_sector_82,420814525.0,82.0,MAST TESS official sample,True,Relatively quiet comparison target with shallow transit signatures.
+quiet_star/quiet_star_001.csv,quiet_star,quiet_star_001,,,manual,False,
+quiet_star/quiet_star_002.csv,quiet_star,quiet_star_002,,,manual,False,
+quiet_star/quiet_star_003.csv,quiet_star,quiet_star_003,,,manual,False,
+quiet_star/quiet_star_004.csv,quiet_star,quiet_star_004,,,manual,False,
